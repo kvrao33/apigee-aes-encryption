@@ -272,5 +272,5 @@ console.log("Decrypted:", String(decryptedData));
 
 ## Conclusion
 
-This documentation provides an overview of the encryption and decryption functionality implemented in Java, PHP, and C# for the AES-256-CBC algorithm with PBKDF2 key derivation. Users can refer to this documentation for understanding and utilizing the provided encryption and decryption methods in their applications.
+This documentation provides an overview of the encryption and decryption functionality implemented in Java, PHP, Node js and C# for the AES-256-CBC algorithm with PBKDF2 key derivation. Users can refer to this documentation for understanding and utilizing the provided encryption and decryption methods in their applications.
 ```
